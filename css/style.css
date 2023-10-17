@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil&display=swap');
+li{list-style-type:none!important;}
+a{text-decoration:none!important;}
+html{scroll-behavior: smooth;}
+.rale{font-family: 'Patua One', cursive;}.robo{font-family: 'Roboto', sans-serif;}
+
+button{
+width: 40px;
+height: 40px;
+border-radius: 10%;
+}
